@@ -15,6 +15,7 @@ let totalFrames;
 
 function preload() {
     myGif = loadImage('Users/ben/Documents/GitHub/workshop2/bookofart.gif');  // Replace with your GIF path
+     myGif = loadImage('Users/ben/Documents/GitHub/workshop2/bookofart.gif');  // Replace with your GIF path
 }
 // ==============================================
 // SETUP FUNCTION - Runs once when page loads
